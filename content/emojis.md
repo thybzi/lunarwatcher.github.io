@@ -8,7 +8,7 @@ Stored for later reference.
 
 ```
 :squint:           - Discord-style squinting 
-o_o, O_o. o_O, O_O - surprised - also exists with dot variants and regular dash (-) variants
+o_o, O_o, o_O, O_O - surprised - also exists with dot variants and regular dash (-) variants
 >.>, <.<           - whaaat?
 >.<,>-<            - Dammit 
 owo,OwO,OWO        - interested/excited(/surprised (rare))
